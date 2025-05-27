@@ -7,6 +7,7 @@ CSS → Styling (layouts, animations, responsive design).
 
 JavaScript → Functionality (image slideshow, filtering, lightbox effect).
 
+
 Key Features:
 
 Image Grid Display
