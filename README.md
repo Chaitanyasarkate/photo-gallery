@@ -1,6 +1,7 @@
 
 # photo-gallery
 
+
 A Photo Gallery built with:
 
 HTML → Structure of the webpage (image containers, buttons, etc.).
