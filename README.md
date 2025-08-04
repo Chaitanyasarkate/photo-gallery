@@ -19,7 +19,6 @@ Lightbox Popup
 Clicking an image opens it in a larger view (JavaScript).
 
 Basic Animations 
-
 Hover effects, smooth transitions (CSS).
 
 ![Uploading Screenshot (31).png…]()
