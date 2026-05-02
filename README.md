@@ -1,6 +1,7 @@
 
 # photo-gallery
 
+
 A Photo Gallery built with:
 
 HTML → Structure of the webpage (image containers, buttons, etc.).
@@ -9,7 +10,9 @@ CSS → Styling (layouts, animations, responsive design).
 
 JavaScript → Functionality (image slideshow, filtering, lightbox effect).
 
+
 Key Features:
+
 
 Image Grid Display
 
